@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e84ba9a-fa2f-47bb-8b86-ea247bc6d52f" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/Model/ProductImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/StockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/StockController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/StockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/StockController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/StockDelete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/StockRead.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/StockSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/StockUpdate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/StockDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/StockDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/ProductImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/ProductImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/JTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/JTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/StockDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/StockDisplay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sokmean" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -42,16 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/KSHRD/Java/MiniProjectStockManagement/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/KSHRD/Java/MiniProjectStockManagement/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="controller" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -62,6 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
