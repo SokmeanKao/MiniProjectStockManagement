@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e84ba9a-fa2f-47bb-8b86-ea247bc6d52f" name="Changes" comment="Initial Commit" />
+    <list default="true" id="7e84ba9a-fa2f-47bb-8b86-ea247bc6d52f" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/Model/StockDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/StockRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/StockSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/StockUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/JTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/StockDisplay.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

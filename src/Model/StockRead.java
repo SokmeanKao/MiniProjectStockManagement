@@ -1,0 +1,1 @@
+package Model;public class StockRead {}
