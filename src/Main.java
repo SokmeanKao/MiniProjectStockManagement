@@ -5,6 +5,7 @@ public class Main {
         StockController sc = new StockController();
         sc.getProducts();
         System.out.println("Hello world");
+        System.out.println(444);
     }
 
 
