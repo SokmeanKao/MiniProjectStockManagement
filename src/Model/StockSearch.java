@@ -1,1 +1,0 @@
-package Model;public class StockSearch {}
