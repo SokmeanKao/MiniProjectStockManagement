@@ -1,1 +1,0 @@
-package model;import java.util.ArrayList;public class ProductImpl {    private ArrayList<Product> listProducts = new ArrayList<>();    public ArrayList<Product> get(){        return listProducts;    }}
